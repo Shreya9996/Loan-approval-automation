@@ -17,7 +17,7 @@
 </h1>
 
 <p align="center">
-An intelligent Loan Approval System that predicts loan eligibility using Machine Learning, serves predictions through FastAPI, and automates PDF report generation and email notifications using n8n.
+AI-powered Loan Approval System using KNN, FastAPI, and n8n for automated loan prediction, PDF report generation, and email notifications.
 </p>
 
 ---
